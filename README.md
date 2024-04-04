@@ -30,8 +30,11 @@ I document my learning process and experiences on Instagram, where I'll be shari
 
 #
 
-![GradByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=GradByte&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GradByte&langs_count=4&theme=dark)
+![GradByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=GradByte&hide=contribs,prs&theme=highcontrast)
+
+#
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GradByte&langs_count=4&theme=highcontrast)
 
 <!--
 **GradByte/GradByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
