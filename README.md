@@ -2,9 +2,9 @@
 
 **`Digital Craftsman (Developer/Student/Creator)`**
 
-I'm currently doing my Master's in Computer Engineering 💻 at Boğaziçi University. I'm passionate about becoming an iOS developer 🍎 and want to share my journey 🛣️ on Instagram. Boğaziçi University has given me a solid foundation in computer science, and I'm excited to apply my skills to create cool apps 📱. My goal is to make user-friendly and innovative iOS 🍏 apps that make a difference in people's lives.
+I'm doing my Master's in Computer Engineering 💻 at Boğaziçi University. I'm passionate about becoming an iOS developer 🍎 and want to share my journey 🛣️ on Instagram. Boğaziçi University has given me a solid foundation in computer science, and I'm excited to apply my skills to create cool apps 📱. I aim to make user-friendly and innovative iOS 🍏 apps that make a difference in people's lives.
 
-I document my learning process and experiences on Instagram, where I'll be sharing tips and connecting with others who love coding. Join me on this journey 🤝, and let's learn and grow together! About my Instagram, I initially launched my Instagram channel to document my LeetCode-solving sessions (I finished 100 days of the DSA challenge btw 😊), but to my surprise, the follower count quickly surpassed 23k 🥳. Now, I'm actively sharing my journey on Instagram, striving to articulate my activities in a way that's easily understandable to a diverse audience 🌍.
+I document my learning process and experiences on Instagram, where I'll share tips and connect with others who love coding. Join me on this journey 🤝, and let's learn and grow together! About my Instagram, I initially launched my Instagram channel to document my LeetCode-solving sessions (I already finished 100 days of the DSA challenge 😊), and to my surprise, the follower count quickly surpassed 24k 🥳. Now, I'm actively sharing my journey on Instagram, striving to articulate my activities in a way that's easily understandable to a diverse audience 🌍.
 
 ---
 
