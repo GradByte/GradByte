@@ -8,13 +8,10 @@ I document my learning process and experiences on Instagram, where I'll share ti
 
 Taboom:
 https://apps.apple.com/tr/app/taboom-party-word-game/id6478031111
-
 MyWallet:
 https://apps.apple.com/tr/app/mywallet-expense-tracker/id6479616859
-
 DeepFocus:
 https://apps.apple.com/us/app/deepfocus-pomodoro-timer/id6503199985
-
 ---
 
 ### 🧰 Languages and Tools
