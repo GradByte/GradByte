@@ -6,12 +6,12 @@ I'm doing my Master's in Computer Engineering 💻 at Boğaziçi University. I'm
 
 I document my learning process and experiences on Instagram, where I'll share tips and connect with others who love coding. Join me on this journey 🤝, and let's learn and grow together! About my Instagram, I initially launched my Instagram channel to document my LeetCode-solving sessions, and to my surprise, the follower count quickly surpassed 25k 🥳. Now, I'm actively sharing my journey on Instagram, striving to articulate my activities in a way that's easily understandable to a diverse audience 🌍.
 
-Taboom:
-https://apps.apple.com/tr/app/taboom-party-word-game/id6478031111
-MyWallet:
-https://apps.apple.com/tr/app/mywallet-expense-tracker/id6479616859
-DeepFocus:
-https://apps.apple.com/us/app/deepfocus-pomodoro-timer/id6503199985
+Taboom: https://apps.apple.com/tr/app/taboom-party-word-game/id6478031111
+
+MyWallet: https://apps.apple.com/tr/app/mywallet-expense-tracker/id6479616859
+
+DeepFocus: https://apps.apple.com/us/app/deepfocus-pomodoro-timer/id6503199985
+
 ---
 
 ### 🧰 Languages and Tools
