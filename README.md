@@ -4,7 +4,7 @@
 
 I'm doing my Master's in Computer Engineering 💻 at Boğaziçi University. I'm passionate about iOS development 🍎 and want to share my journey 🛣️ on Instagram. Boğaziçi University has given me a solid foundation in computer science, and I'm excited to apply my skills to create cool apps 📱. I aim to make user-friendly and innovative iOS 🍏 apps that make a difference in people's lives.
 
-I document my learning process, experiences, and memes on Instagram, where I'll share tips and connect with others who love tech. Join me on this journey 🤝, and let's learn and grow together! About my Instagram, I initially launched my Instagram channel to document my LeetCode-solving sessions, and to my surprise, the follower count quickly surpassed 10k 🥳. I'm actively sharing my journey on Instagram, aiming to make my activities easily understandable for a diverse audience of 30K+ 🌍.
+I document my learning process, experiences, and memes on Instagram, where I'll share tips and connect with others who love tech. Join me on this journey 🤝, and let's learn and grow together! About my Instagram, I initially launched my Instagram channel to document my LeetCode-solving sessions, and to my surprise, the follower count quickly surpassed 10K 🥳. I'm actively sharing my journey on Instagram, aiming to make my activities easily understandable for a diverse audience of 30K+ 🌍.
 
 Taboom: https://apps.apple.com/tr/app/taboom-party-word-game/id6478031111
 
