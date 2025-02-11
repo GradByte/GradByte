@@ -14,6 +14,8 @@ DeepFocus: https://apps.apple.com/us/app/deepfocus-pomodoro-timer/id6503199985
 
 FlagWise: https://apps.apple.com/tr/app/flagwise-flag-quiz/id6708237233
 
+RemindMe: https://apps.apple.com/tr/app/remindme-daily-planner/id6740724717
+
 ---
 
 ### 🧰 Languages and Tools
