@@ -1,5 +1,3 @@
-# GradByte
-
 ## 👨‍💻 Digital Craftsman (Developer/Creator)
 
 I have a Master's in Computer Engineering 💻 at Boğaziçi University. I'm passionate about iOS development 🍎 and want to share my journey 🛣️ on Instagram. Having graduated from Boğaziçi University, I have a solid foundation in computer science, and I'm excited to apply my skills to create cool apps 📱. I aim to make user-friendly and innovative iOS 🍏 apps that make a difference in people's lives.
