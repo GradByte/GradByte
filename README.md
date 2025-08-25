@@ -8,7 +8,7 @@ I document my learning process, experiences, and memes on Instagram, where I'll 
 
 ## 📱 My Apps
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td align="center" width="150">
