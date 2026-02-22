@@ -70,5 +70,3 @@ I aspire to continue growing toward a research-focused career in Machine Learnin
 <br />
 
 #
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GradByte&langs_count=4&theme=highcontrast)
