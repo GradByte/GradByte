@@ -24,7 +24,7 @@ I’m evolving from being purely an application developer into a research-orient
 
 I document my learning process, experiments, and academic growth on Instagram 📱.
 
-I initially launched my Instagram channel to document my LeetCode-solving sessions, and to my surprise, the follower count quickly surpassed 10K 🥳. Today, I share my journey with a community of 35K+ 🌍, simplifying complex topics and making ML/DL more accessible to a diverse audience.
+I initially launched my Instagram channel to document my LeetCode-solving sessions, and to my surprise, the follower count quickly surpassed 10K 🥳. Today, I share my journey with a community of 45K+ 🌍, simplifying complex topics and making ML/DL more accessible to a diverse audience.
 
 My mission is simple:
 
